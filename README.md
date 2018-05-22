@@ -3,7 +3,9 @@ Turma 05J12
 
 
 Nome do Projeto:  Projeto ciclope 
+
 Integrantes do Grupo:
+
 •	Cristopher Soares 
 
 •	Hugo Petelin 
