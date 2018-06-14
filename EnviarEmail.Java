@@ -98,7 +98,7 @@ public class EnviaEmail extends HttpServlet {
 
         // Enter your correct gmail UserID and Password
         // if you have 2FA enabled then provide App Specific Password
-        transport.connect("smtp.gmail.com", "hugopetelin", "chacarapetelin");
+        transport.connect("smtp.gmail.com", "hugopetelin", "rewrwedw");
         transport.sendMessage(generateMailMessage, generateMailMessage.getAllRecipients());
         transport.close();
     }
