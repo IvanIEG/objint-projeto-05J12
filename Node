@@ -1,0 +1,2 @@
+Para importar no Node-red:
+[{"id":"251a959a.01395a","type":"http request","z":"51aa5ff5.c19df","name":"get_post","method":"POST","ret":"txt","url":"http://localhost:8080/VerificaPlaca/EnviaEmail?enviar={{enviar}}","tls":"","x":580,"y":240,"wires":[["8e642e98.83b2b"]]}] 
